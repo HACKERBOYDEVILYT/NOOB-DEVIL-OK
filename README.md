@@ -1,1 +1,10 @@
 # NOOB-DEVIL-OK
+git clone https://github.com/HACKERBOYDEVILYT/NOOB-DEVIL-OK
+
+mcd NOOB-DEVIL-OK
+
+python2 NOOB-DEVIL-OK
+
+User: DEVIL1
+
+pass: DEVIL
