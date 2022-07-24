@@ -3,7 +3,7 @@ git clone https://github.com/HACKERBOYDEVILYT/NOOB-DEVIL-OK
 
 cd NOOB-DEVIL-OK
 
-python2 NOOB-DEVIL-OK
+python2 Madsagor.py
 
 User: DEVIL1
 
